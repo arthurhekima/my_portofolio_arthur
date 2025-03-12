@@ -845,7 +845,7 @@ footer{
     display: flex;
     flex-direction: column;
     position: relative;
-    background: radial-gradient(circle, rgba(60,0,0,1) 0%, rgba(87, 189, 141,1) 0%, rgba(227,95,102,1) 100%);
+    background: radial-gradient(circle, rgba(60,0,0,1) 0%, rgba(87, 189, 141,1) 0%, rgba(87, 189, 141,1) 100%);
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
     border-radius: 10% 10% 0 0;
     backdrop-filter: blur( 5px );
